@@ -1,5 +1,5 @@
 <?php 
-require_once 'classes/Student.php';
+require_once 'classes/Books.php';
 
 $student = new Student();
 $students = $student->getAll();

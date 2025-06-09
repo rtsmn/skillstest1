@@ -1,7 +1,7 @@
 <?php 
 require_once 'classes/Database.php';
 
-class Student {
+class Books {
 
     private $connection;
 
